@@ -29,7 +29,7 @@ EBIOS RM Pro est un outil **100% client-side** (aucun serveur requis) permettant
 3. C'est tout ! 🎉
 
 ### Option 2 : GitHub Pages
-Accédez directement à : `https://votre-username.github.io/ebios-rm-pro/`
+Accédez directement à : `https://github.com/Cyber-Autopsie/ebios-rm-pro`
 
 ## 📚 Les 5 Ateliers
 
